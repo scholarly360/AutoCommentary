@@ -40,3 +40,12 @@ After adding docstrings, it's good practice to compile your script to check for 
 e.g.
 
 ```python -m py_compile 01.py```
+
+## TO-DO
+
+Logging
+
+Logging Generation
+
+Support for different Models
+
